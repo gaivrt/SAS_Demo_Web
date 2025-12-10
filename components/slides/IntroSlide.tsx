@@ -57,6 +57,7 @@ export const IntroSlide: React.FC = () => {
             <div className="flex flex-col gap-1 border-l-2 border-white/10 pl-4 mt-auto">
               <span className="text-white text-base font-medium tracking-wide">Tao Xilin</span>
               <span className="text-sm font-mono text-academic-gray">1220032801</span>
+              <span className="text-sm text-academic-gray block mb-1">Supervisor: Li Dagang</span>
               <span className="text-sm text-academic-gray">Macau University of Science and Technology</span>
             </div>
           </motion.div>
