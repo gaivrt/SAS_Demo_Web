@@ -22,9 +22,9 @@ export const ConclusionSlide: React.FC = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.4 }}
       >
-        <a href="https://github.com/gaivrt/Jirai" target="_blank" rel="noopener noreferrer" className="p-6 border border-white/10 rounded-lg hover:bg-white/5 transition-colors cursor-pointer group block">
+        <a href="https://github.com/gaivrt/SAS_Demo_Web" target="_blank" rel="noopener noreferrer" className="p-6 border border-white/10 rounded-lg hover:bg-white/5 transition-colors cursor-pointer group block">
           <h3 className="text-white text-sm font-semibold mb-2 group-hover:text-jirai-pink transition-colors">Project Page</h3>
-          <p className="text-xs text-academic-gray">github.com/gaivrt/Jirai</p>
+          <p className="text-xs text-academic-gray">github.com/gaivrt/SAS_Demo_Web</p>
         </a>
         <div className="p-6 border border-white/10 rounded-lg hover:bg-white/5 transition-colors cursor-pointer group">
           <h3 className="text-white text-sm font-semibold mb-2 group-hover:text-jirai-pink transition-colors">Full Paper</h3>
